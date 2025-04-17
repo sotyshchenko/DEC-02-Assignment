@@ -1,0 +1,3351 @@
+students_data
+"{
+    ""student_id"": 1,
+    ""name"": ""Maxim Tymchenko"",
+    ""age"": 21,
+    ""study_program"": ""Business Economics"",
+    ""contact"": {
+        ""phone"": ""+380625661169"",
+        ""email"": ""maxim.tymchenko@university.com""
+    },
+    ""ongoing_courses"": [
+        {
+            ""course_name"": ""Data Analytics"",
+            ""credits"": 4
+        },
+        {
+            ""course_name"": ""Software Engineering"",
+            ""credits"": 4
+        }
+    ],
+    ""address"": {
+        ""street"": ""29 Pine St"",
+        ""city"": ""Kyiv"",
+        ""country"": ""Ukraine""
+    },
+    ""grades"": [
+        {
+            ""course"": ""Statistics"",
+            ""credits"": 3,
+            ""grade"": 67
+        },
+        {
+            ""course"": ""Artificial Intelligence"",
+            ""credits"": 4,
+            ""grade"": 87
+        },
+        {
+            ""course"": ""Econometrics"",
+            ""credits"": 3,
+            ""grade"": 66
+        },
+        {
+            ""course"": ""Data Visualization"",
+            ""credits"": 2,
+            ""grade"": 99
+        },
+        {
+            ""course"": ""Database Management"",
+            ""credits"": 3,
+            ""grade"": 98
+        },
+        {
+            ""course"": ""Marketing Analytics"",
+            ""credits"": 3,
+            ""grade"": 84
+        },
+        {
+            ""course"": ""Finance"",
+            ""credits"": 3,
+            ""grade"": 67
+        },
+        {
+            ""course"": ""Operations Research"",
+            ""credits"": 4,
+            ""grade"": 62
+        }
+    ]
+}"
+"{
+    ""student_id"": 2,
+    ""name"": ""Maxim Klymchuk"",
+    ""age"": 22,
+    ""study_program"": ""Economics and Big Data"",
+    ""contact"": {
+        ""phone"": ""+380674369811"",
+        ""email"": ""maxim.klymchuk@university.com""
+    },
+    ""ongoing_courses"": [
+        {
+            ""course_name"": ""Software Engineering"",
+            ""credits"": 4
+        },
+        {
+            ""course_name"": ""Machine Learning"",
+            ""credits"": 3
+        }
+    ],
+    ""address"": {
+        ""street"": ""34 Main St"",
+        ""city"": ""Kharkiv"",
+        ""country"": ""Ukraine""
+    },
+    ""grades"": [
+        {
+            ""course"": ""Statistics"",
+            ""credits"": 3,
+            ""grade"": 59
+        },
+        {
+            ""course"": ""Artificial Intelligence"",
+            ""credits"": 4,
+            ""grade"": 76
+        },
+        {
+            ""course"": ""Econometrics"",
+            ""credits"": 3,
+            ""grade"": 72
+        },
+        {
+            ""course"": ""Data Visualization"",
+            ""credits"": 2,
+            ""grade"": 82
+        },
+        {
+            ""course"": ""Database Management"",
+            ""credits"": 3,
+            ""grade"": 66
+        },
+        {
+            ""course"": ""Marketing Analytics"",
+            ""credits"": 3,
+            ""grade"": 100
+        },
+        {
+            ""course"": ""Finance"",
+            ""credits"": 3,
+            ""grade"": 60
+        },
+        {
+            ""course"": ""Operations Research"",
+            ""credits"": 4,
+            ""grade"": 77
+        }
+    ]
+}"
+"{
+    ""student_id"": 3,
+    ""name"": ""Anastasia Hrytsenko"",
+    ""age"": 21,
+    ""study_program"": ""Business Economics"",
+    ""contact"": {
+        ""phone"": ""+380595026521"",
+        ""email"": ""anastasia.hrytsenko@university.com""
+    },
+    ""ongoing_courses"": [
+        {
+            ""course_name"": ""Machine Learning"",
+            ""credits"": 3
+        },
+        {
+            ""course_name"": ""Economics and Big Data"",
+            ""credits"": 3
+        }
+    ],
+    ""address"": {
+        ""street"": ""78 Main St"",
+        ""city"": ""Lviv"",
+        ""country"": ""Ukraine""
+    },
+    ""grades"": [
+        {
+            ""course"": ""Statistics"",
+            ""credits"": 3,
+            ""grade"": 50
+        },
+        {
+            ""course"": ""Artificial Intelligence"",
+            ""credits"": 4,
+            ""grade"": 75
+        },
+        {
+            ""course"": ""Econometrics"",
+            ""credits"": 3,
+            ""grade"": 97
+        },
+        {
+            ""course"": ""Data Visualization"",
+            ""credits"": 2,
+            ""grade"": 86
+        },
+        {
+            ""course"": ""Database Management"",
+            ""credits"": 3,
+            ""grade"": 59
+        },
+        {
+            ""course"": ""Marketing Analytics"",
+            ""credits"": 3,
+            ""grade"": 83
+        },
+        {
+            ""course"": ""Finance"",
+            ""credits"": 3,
+            ""grade"": 85
+        },
+        {
+            ""course"": ""Operations Research"",
+            ""credits"": 4,
+            ""grade"": 85
+        }
+    ]
+}"
+"{
+    ""student_id"": 4,
+    ""name"": ""Olga Klymchuk"",
+    ""age"": 20,
+    ""study_program"": ""Business Economics"",
+    ""contact"": {
+        ""phone"": ""+380778178785"",
+        ""email"": ""olga.klymchuk@university.com""
+    },
+    ""ongoing_courses"": [
+        {
+            ""course_name"": ""Data Analytics"",
+            ""credits"": 4
+        },
+        {
+            ""course_name"": ""Machine Learning"",
+            ""credits"": 3
+        }
+    ],
+    ""address"": {
+        ""street"": ""3 Pine St"",
+        ""city"": ""Odesa"",
+        ""country"": ""Ukraine""
+    },
+    ""grades"": [
+        {
+            ""course"": ""Statistics"",
+            ""credits"": 3,
+            ""grade"": 81
+        },
+        {
+            ""course"": ""Artificial Intelligence"",
+            ""credits"": 4,
+            ""grade"": 89
+        },
+        {
+            ""course"": ""Econometrics"",
+            ""credits"": 3,
+            ""grade"": 82
+        },
+        {
+            ""course"": ""Data Visualization"",
+            ""credits"": 2,
+            ""grade"": 53
+        },
+        {
+            ""course"": ""Database Management"",
+            ""credits"": 3,
+            ""grade"": 95
+        },
+        {
+            ""course"": ""Marketing Analytics"",
+            ""credits"": 3,
+            ""grade"": 96
+        },
+        {
+            ""course"": ""Finance"",
+            ""credits"": 3,
+            ""grade"": 78
+        },
+        {
+            ""course"": ""Operations Research"",
+            ""credits"": 4,
+            ""grade"": 67
+        }
+    ]
+}"
+"{
+    ""student_id"": 5,
+    ""name"": ""Maxim Pavlenko"",
+    ""age"": 25,
+    ""study_program"": ""Business Economics"",
+    ""contact"": {
+        ""phone"": ""+380283266088"",
+        ""email"": ""maxim.pavlenko@university.com""
+    },
+    ""ongoing_courses"": [
+        {
+            ""course_name"": ""Data Analytics"",
+            ""credits"": 4
+        },
+        {
+            ""course_name"": ""Software Engineering"",
+            ""credits"": 4
+        }
+    ],
+    ""address"": {
+        ""street"": ""83 Main St"",
+        ""city"": ""Kyiv"",
+        ""country"": ""Ukraine""
+    },
+    ""grades"": [
+        {
+            ""course"": ""Statistics"",
+            ""credits"": 3,
+            ""grade"": 56
+        },
+        {
+            ""course"": ""Artificial Intelligence"",
+            ""credits"": 4,
+            ""grade"": 62
+        },
+        {
+            ""course"": ""Econometrics"",
+            ""credits"": 3,
+            ""grade"": 52
+        },
+        {
+            ""course"": ""Data Visualization"",
+            ""credits"": 2,
+            ""grade"": 87
+        },
+        {
+            ""course"": ""Database Management"",
+            ""credits"": 3,
+            ""grade"": 59
+        },
+        {
+            ""course"": ""Marketing Analytics"",
+            ""credits"": 3,
+            ""grade"": 65
+        },
+        {
+            ""course"": ""Finance"",
+            ""credits"": 3,
+            ""grade"": 95
+        },
+        {
+            ""course"": ""Operations Research"",
+            ""credits"": 4,
+            ""grade"": 85
+        }
+    ]
+}"
+"{
+    ""student_id"": 6,
+    ""name"": ""Viktor Semenov"",
+    ""age"": 18,
+    ""study_program"": ""Software Engineering and Business Analysis"",
+    ""contact"": {
+        ""phone"": ""+380702547214"",
+        ""email"": ""viktor.semenov@university.com""
+    },
+    ""ongoing_courses"": [
+        {
+            ""course_name"": ""Machine Learning"",
+            ""credits"": 3
+        },
+        {
+            ""course_name"": ""Software Engineering"",
+            ""credits"": 4
+        }
+    ],
+    ""address"": {
+        ""street"": ""19 Pine St"",
+        ""city"": ""Lviv"",
+        ""country"": ""Ukraine""
+    },
+    ""grades"": [
+        {
+            ""course"": ""Statistics"",
+            ""credits"": 3,
+            ""grade"": 98
+        },
+        {
+            ""course"": ""Artificial Intelligence"",
+            ""credits"": 4,
+            ""grade"": 97
+        },
+        {
+            ""course"": ""Econometrics"",
+            ""credits"": 3,
+            ""grade"": 55
+        },
+        {
+            ""course"": ""Data Visualization"",
+            ""credits"": 2,
+            ""grade"": 90
+        },
+        {
+            ""course"": ""Database Management"",
+            ""credits"": 3,
+            ""grade"": 69
+        },
+        {
+            ""course"": ""Marketing Analytics"",
+            ""credits"": 3,
+            ""grade"": 87
+        },
+        {
+            ""course"": ""Finance"",
+            ""credits"": 3,
+            ""grade"": 59
+        },
+        {
+            ""course"": ""Operations Research"",
+            ""credits"": 4,
+            ""grade"": 68
+        }
+    ]
+}"
+"{
+    ""student_id"": 7,
+    ""name"": ""Yulia Bohdan"",
+    ""age"": 19,
+    ""study_program"": ""Data Analytics"",
+    ""contact"": {
+        ""phone"": ""+380692236913"",
+        ""email"": ""yulia.bohdan@university.com""
+    },
+    ""ongoing_courses"": [
+        {
+            ""course_name"": ""Economics and Big Data"",
+            ""credits"": 3
+        },
+        {
+            ""course_name"": ""Data Analytics"",
+            ""credits"": 4
+        }
+    ],
+    ""address"": {
+        ""street"": ""10 Broadway"",
+        ""city"": ""Kharkiv"",
+        ""country"": ""Ukraine""
+    },
+    ""grades"": [
+        {
+            ""course"": ""Statistics"",
+            ""credits"": 3,
+            ""grade"": 71
+        },
+        {
+            ""course"": ""Artificial Intelligence"",
+            ""credits"": 4,
+            ""grade"": 99
+        },
+        {
+            ""course"": ""Econometrics"",
+            ""credits"": 3,
+            ""grade"": 93
+        },
+        {
+            ""course"": ""Data Visualization"",
+            ""credits"": 2,
+            ""grade"": 79
+        },
+        {
+            ""course"": ""Database Management"",
+            ""credits"": 3,
+            ""grade"": 68
+        },
+        {
+            ""course"": ""Marketing Analytics"",
+            ""credits"": 3,
+            ""grade"": 86
+        },
+        {
+            ""course"": ""Finance"",
+            ""credits"": 3,
+            ""grade"": 58
+        },
+        {
+            ""course"": ""Operations Research"",
+            ""credits"": 4,
+            ""grade"": 60
+        }
+    ]
+}"
+"{
+    ""student_id"": 8,
+    ""name"": ""Igor Pavlenko"",
+    ""age"": 21,
+    ""study_program"": ""Cybersecurity"",
+    ""contact"": {
+        ""phone"": ""+380987073233"",
+        ""email"": ""igor.pavlenko@university.com""
+    },
+    ""ongoing_courses"": [
+        {
+            ""course_name"": ""Software Engineering"",
+            ""credits"": 4
+        },
+        {
+            ""course_name"": ""Machine Learning"",
+            ""credits"": 3
+        }
+    ],
+    ""address"": {
+        ""street"": ""31 Main St"",
+        ""city"": ""Lviv"",
+        ""country"": ""Ukraine""
+    },
+    ""grades"": [
+        {
+            ""course"": ""Statistics"",
+            ""credits"": 3,
+            ""grade"": 86
+        },
+        {
+            ""course"": ""Artificial Intelligence"",
+            ""credits"": 4,
+            ""grade"": 68
+        },
+        {
+            ""course"": ""Econometrics"",
+            ""credits"": 3,
+            ""grade"": 75
+        },
+        {
+            ""course"": ""Data Visualization"",
+            ""credits"": 2,
+            ""grade"": 100
+        },
+        {
+            ""course"": ""Database Management"",
+            ""credits"": 3,
+            ""grade"": 80
+        },
+        {
+            ""course"": ""Marketing Analytics"",
+            ""credits"": 3,
+            ""grade"": 94
+        },
+        {
+            ""course"": ""Finance"",
+            ""credits"": 3,
+            ""grade"": 57
+        },
+        {
+            ""course"": ""Operations Research"",
+            ""credits"": 4,
+            ""grade"": 63
+        }
+    ]
+}"
+"{
+    ""student_id"": 9,
+    ""name"": ""Roman Bohdan"",
+    ""age"": 25,
+    ""study_program"": ""Cybersecurity"",
+    ""contact"": {
+        ""phone"": ""+380182044362"",
+        ""email"": ""roman.bohdan@university.com""
+    },
+    ""ongoing_courses"": [
+        {
+            ""course_name"": ""Machine Learning"",
+            ""credits"": 3
+        },
+        {
+            ""course_name"": ""Data Analytics"",
+            ""credits"": 4
+        }
+    ],
+    ""address"": {
+        ""street"": ""12 First Ave"",
+        ""city"": ""Lviv"",
+        ""country"": ""Ukraine""
+    },
+    ""grades"": [
+        {
+            ""course"": ""Statistics"",
+            ""credits"": 3,
+            ""grade"": 67
+        },
+        {
+            ""course"": ""Artificial Intelligence"",
+            ""credits"": 4,
+            ""grade"": 73
+        },
+        {
+            ""course"": ""Econometrics"",
+            ""credits"": 3,
+            ""grade"": 63
+        },
+        {
+            ""course"": ""Data Visualization"",
+            ""credits"": 2,
+            ""grade"": 66
+        },
+        {
+            ""course"": ""Database Management"",
+            ""credits"": 3,
+            ""grade"": 82
+        },
+        {
+            ""course"": ""Marketing Analytics"",
+            ""credits"": 3,
+            ""grade"": 92
+        },
+        {
+            ""course"": ""Finance"",
+            ""credits"": 3,
+            ""grade"": 91
+        },
+        {
+            ""course"": ""Operations Research"",
+            ""credits"": 4,
+            ""grade"": 65
+        }
+    ]
+}"
+"{
+    ""student_id"": 10,
+    ""name"": ""Yulia Zaytsev"",
+    ""age"": 22,
+    ""study_program"": ""Business Economics"",
+    ""contact"": {
+        ""phone"": ""+380374177279"",
+        ""email"": ""yulia.zaytsev@university.com""
+    },
+    ""ongoing_courses"": [
+        {
+            ""course_name"": ""Software Engineering"",
+            ""credits"": 4
+        },
+        {
+            ""course_name"": ""Data Analytics"",
+            ""credits"": 4
+        }
+    ],
+    ""address"": {
+        ""street"": ""37 First Ave"",
+        ""city"": ""Kyiv"",
+        ""country"": ""Ukraine""
+    },
+    ""grades"": [
+        {
+            ""course"": ""Statistics"",
+            ""credits"": 3,
+            ""grade"": 95
+        },
+        {
+            ""course"": ""Artificial Intelligence"",
+            ""credits"": 4,
+            ""grade"": 54
+        },
+        {
+            ""course"": ""Econometrics"",
+            ""credits"": 3,
+            ""grade"": 88
+        },
+        {
+            ""course"": ""Data Visualization"",
+            ""credits"": 2,
+            ""grade"": 87
+        },
+        {
+            ""course"": ""Database Management"",
+            ""credits"": 3,
+            ""grade"": 68
+        },
+        {
+            ""course"": ""Marketing Analytics"",
+            ""credits"": 3,
+            ""grade"": 85
+        },
+        {
+            ""course"": ""Finance"",
+            ""credits"": 3,
+            ""grade"": 85
+        },
+        {
+            ""course"": ""Operations Research"",
+            ""credits"": 4,
+            ""grade"": 57
+        }
+    ]
+}"
+"{
+    ""student_id"": 11,
+    ""name"": ""Yulia Kravchenko"",
+    ""age"": 21,
+    ""study_program"": ""Cybersecurity"",
+    ""contact"": {
+        ""phone"": ""+380434930149"",
+        ""email"": ""yulia.kravchenko@university.com""
+    },
+    ""ongoing_courses"": [
+        {
+            ""course_name"": ""Economics and Big Data"",
+            ""credits"": 3
+        },
+        {
+            ""course_name"": ""Software Engineering"",
+            ""credits"": 4
+        }
+    ],
+    ""address"": {
+        ""street"": ""85 First Ave"",
+        ""city"": ""Kharkiv"",
+        ""country"": ""Ukraine""
+    },
+    ""grades"": [
+        {
+            ""course"": ""Statistics"",
+            ""credits"": 3,
+            ""grade"": 61
+        },
+        {
+            ""course"": ""Artificial Intelligence"",
+            ""credits"": 4,
+            ""grade"": 54
+        },
+        {
+            ""course"": ""Econometrics"",
+            ""credits"": 3,
+            ""grade"": 72
+        },
+        {
+            ""course"": ""Data Visualization"",
+            ""credits"": 2,
+            ""grade"": 88
+        },
+        {
+            ""course"": ""Database Management"",
+            ""credits"": 3,
+            ""grade"": 74
+        },
+        {
+            ""course"": ""Marketing Analytics"",
+            ""credits"": 3,
+            ""grade"": 98
+        },
+        {
+            ""course"": ""Finance"",
+            ""credits"": 3,
+            ""grade"": 71
+        },
+        {
+            ""course"": ""Operations Research"",
+            ""credits"": 4,
+            ""grade"": 91
+        }
+    ]
+}"
+"{
+    ""student_id"": 12,
+    ""name"": ""Anastasia Pavlenko"",
+    ""age"": 24,
+    ""study_program"": ""Cybersecurity"",
+    ""contact"": {
+        ""phone"": ""+380841627309"",
+        ""email"": ""anastasia.pavlenko@university.com""
+    },
+    ""ongoing_courses"": [
+        {
+            ""course_name"": ""Machine Learning"",
+            ""credits"": 3
+        },
+        {
+            ""course_name"": ""Economics and Big Data"",
+            ""credits"": 3
+        }
+    ],
+    ""address"": {
+        ""street"": ""8 Oak St"",
+        ""city"": ""Kharkiv"",
+        ""country"": ""Ukraine""
+    },
+    ""grades"": [
+        {
+            ""course"": ""Statistics"",
+            ""credits"": 3,
+            ""grade"": 93
+        },
+        {
+            ""course"": ""Artificial Intelligence"",
+            ""credits"": 4,
+            ""grade"": 69
+        },
+        {
+            ""course"": ""Econometrics"",
+            ""credits"": 3,
+            ""grade"": 55
+        },
+        {
+            ""course"": ""Data Visualization"",
+            ""credits"": 2,
+            ""grade"": 82
+        },
+        {
+            ""course"": ""Database Management"",
+            ""credits"": 3,
+            ""grade"": 76
+        },
+        {
+            ""course"": ""Marketing Analytics"",
+            ""credits"": 3,
+            ""grade"": 81
+        },
+        {
+            ""course"": ""Finance"",
+            ""credits"": 3,
+            ""grade"": 70
+        },
+        {
+            ""course"": ""Operations Research"",
+            ""credits"": 4,
+            ""grade"": 79
+        }
+    ]
+}"
+"{
+    ""student_id"": 13,
+    ""name"": ""Anastasia Kovbasenko"",
+    ""age"": 25,
+    ""study_program"": ""Data Analytics"",
+    ""contact"": {
+        ""phone"": ""+380917572668"",
+        ""email"": ""anastasia.kovbasenko@university.com""
+    },
+    ""ongoing_courses"": [
+        {
+            ""course_name"": ""Data Analytics"",
+            ""credits"": 4
+        },
+        {
+            ""course_name"": ""Machine Learning"",
+            ""credits"": 3
+        }
+    ],
+    ""address"": {
+        ""street"": ""89 Pine St"",
+        ""city"": ""Lviv"",
+        ""country"": ""Ukraine""
+    },
+    ""grades"": [
+        {
+            ""course"": ""Statistics"",
+            ""credits"": 3,
+            ""grade"": 96
+        },
+        {
+            ""course"": ""Artificial Intelligence"",
+            ""credits"": 4,
+            ""grade"": 91
+        },
+        {
+            ""course"": ""Econometrics"",
+            ""credits"": 3,
+            ""grade"": 74
+        },
+        {
+            ""course"": ""Data Visualization"",
+            ""credits"": 2,
+            ""grade"": 90
+        },
+        {
+            ""course"": ""Database Management"",
+            ""credits"": 3,
+            ""grade"": 56
+        },
+        {
+            ""course"": ""Marketing Analytics"",
+            ""credits"": 3,
+            ""grade"": 89
+        },
+        {
+            ""course"": ""Finance"",
+            ""credits"": 3,
+            ""grade"": 66
+        },
+        {
+            ""course"": ""Operations Research"",
+            ""credits"": 4,
+            ""grade"": 79
+        }
+    ]
+}"
+"{
+    ""student_id"": 14,
+    ""name"": ""Igor Dmitriev"",
+    ""age"": 17,
+    ""study_program"": ""Business Economics"",
+    ""contact"": {
+        ""phone"": ""+380386143977"",
+        ""email"": ""igor.dmitriev@university.com""
+    },
+    ""ongoing_courses"": [
+        {
+            ""course_name"": ""Machine Learning"",
+            ""credits"": 3
+        },
+        {
+            ""course_name"": ""Data Analytics"",
+            ""credits"": 4
+        }
+    ],
+    ""address"": {
+        ""street"": ""33 Oak St"",
+        ""city"": ""Dnipro"",
+        ""country"": ""Ukraine""
+    },
+    ""grades"": [
+        {
+            ""course"": ""Statistics"",
+            ""credits"": 3,
+            ""grade"": 95
+        },
+        {
+            ""course"": ""Artificial Intelligence"",
+            ""credits"": 4,
+            ""grade"": 61
+        },
+        {
+            ""course"": ""Econometrics"",
+            ""credits"": 3,
+            ""grade"": 60
+        },
+        {
+            ""course"": ""Data Visualization"",
+            ""credits"": 2,
+            ""grade"": 70
+        },
+        {
+            ""course"": ""Database Management"",
+            ""credits"": 3,
+            ""grade"": 79
+        },
+        {
+            ""course"": ""Marketing Analytics"",
+            ""credits"": 3,
+            ""grade"": 51
+        },
+        {
+            ""course"": ""Finance"",
+            ""credits"": 3,
+            ""grade"": 79
+        },
+        {
+            ""course"": ""Operations Research"",
+            ""credits"": 4,
+            ""grade"": 76
+        }
+    ]
+}"
+"{
+    ""student_id"": 15,
+    ""name"": ""Olga Klymchuk"",
+    ""age"": 24,
+    ""study_program"": ""Cybersecurity"",
+    ""contact"": {
+        ""phone"": ""+380112574463"",
+        ""email"": ""olga.klymchuk@university.com""
+    },
+    ""ongoing_courses"": [
+        {
+            ""course_name"": ""Software Engineering"",
+            ""credits"": 4
+        },
+        {
+            ""course_name"": ""Economics and Big Data"",
+            ""credits"": 3
+        }
+    ],
+    ""address"": {
+        ""street"": ""89 Pine St"",
+        ""city"": ""Kyiv"",
+        ""country"": ""Ukraine""
+    },
+    ""grades"": [
+        {
+            ""course"": ""Statistics"",
+            ""credits"": 3,
+            ""grade"": 93
+        },
+        {
+            ""course"": ""Artificial Intelligence"",
+            ""credits"": 4,
+            ""grade"": 58
+        },
+        {
+            ""course"": ""Econometrics"",
+            ""credits"": 3,
+            ""grade"": 92
+        },
+        {
+            ""course"": ""Data Visualization"",
+            ""credits"": 2,
+            ""grade"": 95
+        },
+        {
+            ""course"": ""Database Management"",
+            ""credits"": 3,
+            ""grade"": 85
+        },
+        {
+            ""course"": ""Marketing Analytics"",
+            ""credits"": 3,
+            ""grade"": 74
+        },
+        {
+            ""course"": ""Finance"",
+            ""credits"": 3,
+            ""grade"": 57
+        },
+        {
+            ""course"": ""Operations Research"",
+            ""credits"": 4,
+            ""grade"": 75
+        }
+    ]
+}"
+"{
+    ""student_id"": 16,
+    ""name"": ""Maxim Petrov"",
+    ""age"": 23,
+    ""study_program"": ""Software Engineering and Business Analysis"",
+    ""contact"": {
+        ""phone"": ""+380824988128"",
+        ""email"": ""maxim.petrov@university.com""
+    },
+    ""ongoing_courses"": [
+        {
+            ""course_name"": ""Machine Learning"",
+            ""credits"": 3
+        },
+        {
+            ""course_name"": ""Software Engineering"",
+            ""credits"": 4
+        }
+    ],
+    ""address"": {
+        ""street"": ""46 Broadway"",
+        ""city"": ""Kyiv"",
+        ""country"": ""Ukraine""
+    },
+    ""grades"": [
+        {
+            ""course"": ""Statistics"",
+            ""credits"": 3,
+            ""grade"": 69
+        },
+        {
+            ""course"": ""Artificial Intelligence"",
+            ""credits"": 4,
+            ""grade"": 92
+        },
+        {
+            ""course"": ""Econometrics"",
+            ""credits"": 3,
+            ""grade"": 75
+        },
+        {
+            ""course"": ""Data Visualization"",
+            ""credits"": 2,
+            ""grade"": 94
+        },
+        {
+            ""course"": ""Database Management"",
+            ""credits"": 3,
+            ""grade"": 56
+        },
+        {
+            ""course"": ""Marketing Analytics"",
+            ""credits"": 3,
+            ""grade"": 67
+        },
+        {
+            ""course"": ""Finance"",
+            ""credits"": 3,
+            ""grade"": 53
+        },
+        {
+            ""course"": ""Operations Research"",
+            ""credits"": 4,
+            ""grade"": 62
+        }
+    ]
+}"
+"{
+    ""student_id"": 17,
+    ""name"": ""Igor Zaytsev"",
+    ""age"": 25,
+    ""study_program"": ""Software Engineering and Business Analysis"",
+    ""contact"": {
+        ""phone"": ""+380453183691"",
+        ""email"": ""igor.zaytsev@university.com""
+    },
+    ""ongoing_courses"": [
+        {
+            ""course_name"": ""Machine Learning"",
+            ""credits"": 3
+        },
+        {
+            ""course_name"": ""Economics and Big Data"",
+            ""credits"": 3
+        }
+    ],
+    ""address"": {
+        ""street"": ""83 Pine St"",
+        ""city"": ""Dnipro"",
+        ""country"": ""Ukraine""
+    },
+    ""grades"": [
+        {
+            ""course"": ""Statistics"",
+            ""credits"": 3,
+            ""grade"": 77
+        },
+        {
+            ""course"": ""Artificial Intelligence"",
+            ""credits"": 4,
+            ""grade"": 87
+        },
+        {
+            ""course"": ""Econometrics"",
+            ""credits"": 3,
+            ""grade"": 56
+        },
+        {
+            ""course"": ""Data Visualization"",
+            ""credits"": 2,
+            ""grade"": 58
+        },
+        {
+            ""course"": ""Database Management"",
+            ""credits"": 3,
+            ""grade"": 75
+        },
+        {
+            ""course"": ""Marketing Analytics"",
+            ""credits"": 3,
+            ""grade"": 90
+        },
+        {
+            ""course"": ""Finance"",
+            ""credits"": 3,
+            ""grade"": 78
+        },
+        {
+            ""course"": ""Operations Research"",
+            ""credits"": 4,
+            ""grade"": 52
+        }
+    ]
+}"
+"{
+    ""student_id"": 18,
+    ""name"": ""Maxim Kovalenko"",
+    ""age"": 23,
+    ""study_program"": ""Cybersecurity"",
+    ""contact"": {
+        ""phone"": ""+380683355074"",
+        ""email"": ""maxim.kovalenko@university.com""
+    },
+    ""ongoing_courses"": [
+        {
+            ""course_name"": ""Machine Learning"",
+            ""credits"": 3
+        },
+        {
+            ""course_name"": ""Data Analytics"",
+            ""credits"": 4
+        }
+    ],
+    ""address"": {
+        ""street"": ""22 Main St"",
+        ""city"": ""Lviv"",
+        ""country"": ""Ukraine""
+    },
+    ""grades"": [
+        {
+            ""course"": ""Statistics"",
+            ""credits"": 3,
+            ""grade"": 78
+        },
+        {
+            ""course"": ""Artificial Intelligence"",
+            ""credits"": 4,
+            ""grade"": 93
+        },
+        {
+            ""course"": ""Econometrics"",
+            ""credits"": 3,
+            ""grade"": 79
+        },
+        {
+            ""course"": ""Data Visualization"",
+            ""credits"": 2,
+            ""grade"": 61
+        },
+        {
+            ""course"": ""Database Management"",
+            ""credits"": 3,
+            ""grade"": 71
+        },
+        {
+            ""course"": ""Marketing Analytics"",
+            ""credits"": 3,
+            ""grade"": 67
+        },
+        {
+            ""course"": ""Finance"",
+            ""credits"": 3,
+            ""grade"": 95
+        },
+        {
+            ""course"": ""Operations Research"",
+            ""credits"": 4,
+            ""grade"": 86
+        }
+    ]
+}"
+"{
+    ""student_id"": 19,
+    ""name"": ""Roman Kovbasenko"",
+    ""age"": 24,
+    ""study_program"": ""Software Engineering and Business Analysis"",
+    ""contact"": {
+        ""phone"": ""+380969232442"",
+        ""email"": ""roman.kovbasenko@university.com""
+    },
+    ""ongoing_courses"": [
+        {
+            ""course_name"": ""Data Analytics"",
+            ""credits"": 4
+        },
+        {
+            ""course_name"": ""Software Engineering"",
+            ""credits"": 4
+        }
+    ],
+    ""address"": {
+        ""street"": ""66 Broadway"",
+        ""city"": ""Lviv"",
+        ""country"": ""Ukraine""
+    },
+    ""grades"": [
+        {
+            ""course"": ""Statistics"",
+            ""credits"": 3,
+            ""grade"": 81
+        },
+        {
+            ""course"": ""Artificial Intelligence"",
+            ""credits"": 4,
+            ""grade"": 88
+        },
+        {
+            ""course"": ""Econometrics"",
+            ""credits"": 3,
+            ""grade"": 57
+        },
+        {
+            ""course"": ""Data Visualization"",
+            ""credits"": 2,
+            ""grade"": 69
+        },
+        {
+            ""course"": ""Database Management"",
+            ""credits"": 3,
+            ""grade"": 71
+        },
+        {
+            ""course"": ""Marketing Analytics"",
+            ""credits"": 3,
+            ""grade"": 67
+        },
+        {
+            ""course"": ""Finance"",
+            ""credits"": 3,
+            ""grade"": 65
+        },
+        {
+            ""course"": ""Operations Research"",
+            ""credits"": 4,
+            ""grade"": 51
+        }
+    ]
+}"
+"{
+    ""student_id"": 20,
+    ""name"": ""Maxim Tymchenko"",
+    ""age"": 23,
+    ""study_program"": ""Economics and Big Data"",
+    ""contact"": {
+        ""phone"": ""+380359680156"",
+        ""email"": ""maxim.tymchenko@university.com""
+    },
+    ""ongoing_courses"": [
+        {
+            ""course_name"": ""Machine Learning"",
+            ""credits"": 3
+        },
+        {
+            ""course_name"": ""Software Engineering"",
+            ""credits"": 4
+        }
+    ],
+    ""address"": {
+        ""street"": ""2 Main St"",
+        ""city"": ""Kharkiv"",
+        ""country"": ""Ukraine""
+    },
+    ""grades"": [
+        {
+            ""course"": ""Statistics"",
+            ""credits"": 3,
+            ""grade"": 58
+        },
+        {
+            ""course"": ""Artificial Intelligence"",
+            ""credits"": 4,
+            ""grade"": 75
+        },
+        {
+            ""course"": ""Econometrics"",
+            ""credits"": 3,
+            ""grade"": 89
+        },
+        {
+            ""course"": ""Data Visualization"",
+            ""credits"": 2,
+            ""grade"": 52
+        },
+        {
+            ""course"": ""Database Management"",
+            ""credits"": 3,
+            ""grade"": 98
+        },
+        {
+            ""course"": ""Marketing Analytics"",
+            ""credits"": 3,
+            ""grade"": 70
+        },
+        {
+            ""course"": ""Finance"",
+            ""credits"": 3,
+            ""grade"": 57
+        },
+        {
+            ""course"": ""Operations Research"",
+            ""credits"": 4,
+            ""grade"": 57
+        }
+    ]
+}"
+"{
+    ""student_id"": 21,
+    ""name"": ""Roman Pavlenko"",
+    ""age"": 18,
+    ""study_program"": ""Data Analytics"",
+    ""contact"": {
+        ""phone"": ""+380954613118"",
+        ""email"": ""roman.pavlenko@university.com""
+    },
+    ""ongoing_courses"": [
+        {
+            ""course_name"": ""Economics and Big Data"",
+            ""credits"": 3
+        },
+        {
+            ""course_name"": ""Data Analytics"",
+            ""credits"": 4
+        }
+    ],
+    ""address"": {
+        ""street"": ""72 Broadway"",
+        ""city"": ""Kyiv"",
+        ""country"": ""Ukraine""
+    },
+    ""grades"": [
+        {
+            ""course"": ""Statistics"",
+            ""credits"": 3,
+            ""grade"": 85
+        },
+        {
+            ""course"": ""Artificial Intelligence"",
+            ""credits"": 4,
+            ""grade"": 55
+        },
+        {
+            ""course"": ""Econometrics"",
+            ""credits"": 3,
+            ""grade"": 55
+        },
+        {
+            ""course"": ""Data Visualization"",
+            ""credits"": 2,
+            ""grade"": 62
+        },
+        {
+            ""course"": ""Database Management"",
+            ""credits"": 3,
+            ""grade"": 70
+        },
+        {
+            ""course"": ""Marketing Analytics"",
+            ""credits"": 3,
+            ""grade"": 78
+        },
+        {
+            ""course"": ""Finance"",
+            ""credits"": 3,
+            ""grade"": 100
+        },
+        {
+            ""course"": ""Operations Research"",
+            ""credits"": 4,
+            ""grade"": 95
+        }
+    ]
+}"
+"{
+    ""student_id"": 22,
+    ""name"": ""Olga Shevchenko"",
+    ""age"": 17,
+    ""study_program"": ""Data Analytics"",
+    ""contact"": {
+        ""phone"": ""+380718069538"",
+        ""email"": ""olga.shevchenko@university.com""
+    },
+    ""ongoing_courses"": [
+        {
+            ""course_name"": ""Machine Learning"",
+            ""credits"": 3
+        },
+        {
+            ""course_name"": ""Data Analytics"",
+            ""credits"": 4
+        }
+    ],
+    ""address"": {
+        ""street"": ""49 Oak St"",
+        ""city"": ""Kyiv"",
+        ""country"": ""Ukraine""
+    },
+    ""grades"": [
+        {
+            ""course"": ""Statistics"",
+            ""credits"": 3,
+            ""grade"": 63
+        },
+        {
+            ""course"": ""Artificial Intelligence"",
+            ""credits"": 4,
+            ""grade"": 72
+        },
+        {
+            ""course"": ""Econometrics"",
+            ""credits"": 3,
+            ""grade"": 64
+        },
+        {
+            ""course"": ""Data Visualization"",
+            ""credits"": 2,
+            ""grade"": 80
+        },
+        {
+            ""course"": ""Database Management"",
+            ""credits"": 3,
+            ""grade"": 59
+        },
+        {
+            ""course"": ""Marketing Analytics"",
+            ""credits"": 3,
+            ""grade"": 90
+        },
+        {
+            ""course"": ""Finance"",
+            ""credits"": 3,
+            ""grade"": 64
+        },
+        {
+            ""course"": ""Operations Research"",
+            ""credits"": 4,
+            ""grade"": 77
+        }
+    ]
+}"
+"{
+    ""student_id"": 23,
+    ""name"": ""Igor Bohdan"",
+    ""age"": 19,
+    ""study_program"": ""Software Engineering and Business Analysis"",
+    ""contact"": {
+        ""phone"": ""+380296216939"",
+        ""email"": ""igor.bohdan@university.com""
+    },
+    ""ongoing_courses"": [
+        {
+            ""course_name"": ""Data Analytics"",
+            ""credits"": 4
+        },
+        {
+            ""course_name"": ""Economics and Big Data"",
+            ""credits"": 3
+        }
+    ],
+    ""address"": {
+        ""street"": ""14 First Ave"",
+        ""city"": ""Kharkiv"",
+        ""country"": ""Ukraine""
+    },
+    ""grades"": [
+        {
+            ""course"": ""Statistics"",
+            ""credits"": 3,
+            ""grade"": 98
+        },
+        {
+            ""course"": ""Artificial Intelligence"",
+            ""credits"": 4,
+            ""grade"": 63
+        },
+        {
+            ""course"": ""Econometrics"",
+            ""credits"": 3,
+            ""grade"": 90
+        },
+        {
+            ""course"": ""Data Visualization"",
+            ""credits"": 2,
+            ""grade"": 96
+        },
+        {
+            ""course"": ""Database Management"",
+            ""credits"": 3,
+            ""grade"": 99
+        },
+        {
+            ""course"": ""Marketing Analytics"",
+            ""credits"": 3,
+            ""grade"": 80
+        },
+        {
+            ""course"": ""Finance"",
+            ""credits"": 3,
+            ""grade"": 85
+        },
+        {
+            ""course"": ""Operations Research"",
+            ""credits"": 4,
+            ""grade"": 62
+        }
+    ]
+}"
+"{
+    ""student_id"": 24,
+    ""name"": ""Igor Petrov"",
+    ""age"": 20,
+    ""study_program"": ""Cybersecurity"",
+    ""contact"": {
+        ""phone"": ""+380104891022"",
+        ""email"": ""igor.petrov@university.com""
+    },
+    ""ongoing_courses"": [
+        {
+            ""course_name"": ""Software Engineering"",
+            ""credits"": 4
+        },
+        {
+            ""course_name"": ""Economics and Big Data"",
+            ""credits"": 3
+        }
+    ],
+    ""address"": {
+        ""street"": ""63 Pine St"",
+        ""city"": ""Odesa"",
+        ""country"": ""Ukraine""
+    },
+    ""grades"": [
+        {
+            ""course"": ""Statistics"",
+            ""credits"": 3,
+            ""grade"": 65
+        },
+        {
+            ""course"": ""Artificial Intelligence"",
+            ""credits"": 4,
+            ""grade"": 61
+        },
+        {
+            ""course"": ""Econometrics"",
+            ""credits"": 3,
+            ""grade"": 65
+        },
+        {
+            ""course"": ""Data Visualization"",
+            ""credits"": 2,
+            ""grade"": 50
+        },
+        {
+            ""course"": ""Database Management"",
+            ""credits"": 3,
+            ""grade"": 69
+        },
+        {
+            ""course"": ""Marketing Analytics"",
+            ""credits"": 3,
+            ""grade"": 50
+        },
+        {
+            ""course"": ""Finance"",
+            ""credits"": 3,
+            ""grade"": 50
+        },
+        {
+            ""course"": ""Operations Research"",
+            ""credits"": 4,
+            ""grade"": 63
+        }
+    ]
+}"
+"{
+    ""student_id"": 25,
+    ""name"": ""Roman Semenov"",
+    ""age"": 23,
+    ""study_program"": ""Data Analytics"",
+    ""contact"": {
+        ""phone"": ""+380556776058"",
+        ""email"": ""roman.semenov@university.com""
+    },
+    ""ongoing_courses"": [
+        {
+            ""course_name"": ""Data Analytics"",
+            ""credits"": 4
+        },
+        {
+            ""course_name"": ""Software Engineering"",
+            ""credits"": 4
+        }
+    ],
+    ""address"": {
+        ""street"": ""86 Main St"",
+        ""city"": ""Kyiv"",
+        ""country"": ""Ukraine""
+    },
+    ""grades"": [
+        {
+            ""course"": ""Statistics"",
+            ""credits"": 3,
+            ""grade"": 98
+        },
+        {
+            ""course"": ""Artificial Intelligence"",
+            ""credits"": 4,
+            ""grade"": 71
+        },
+        {
+            ""course"": ""Econometrics"",
+            ""credits"": 3,
+            ""grade"": 88
+        },
+        {
+            ""course"": ""Data Visualization"",
+            ""credits"": 2,
+            ""grade"": 97
+        },
+        {
+            ""course"": ""Database Management"",
+            ""credits"": 3,
+            ""grade"": 76
+        },
+        {
+            ""course"": ""Marketing Analytics"",
+            ""credits"": 3,
+            ""grade"": 97
+        },
+        {
+            ""course"": ""Finance"",
+            ""credits"": 3,
+            ""grade"": 81
+        },
+        {
+            ""course"": ""Operations Research"",
+            ""credits"": 4,
+            ""grade"": 62
+        }
+    ]
+}"
+"{
+    ""student_id"": 26,
+    ""name"": ""Maxim Dmitriev"",
+    ""age"": 17,
+    ""study_program"": ""Data Analytics"",
+    ""contact"": {
+        ""phone"": ""+380990518454"",
+        ""email"": ""maxim.dmitriev@university.com""
+    },
+    ""ongoing_courses"": [
+        {
+            ""course_name"": ""Economics and Big Data"",
+            ""credits"": 3
+        },
+        {
+            ""course_name"": ""Software Engineering"",
+            ""credits"": 4
+        }
+    ],
+    ""address"": {
+        ""street"": ""12 Broadway"",
+        ""city"": ""Dnipro"",
+        ""country"": ""Ukraine""
+    },
+    ""grades"": [
+        {
+            ""course"": ""Statistics"",
+            ""credits"": 3,
+            ""grade"": 75
+        },
+        {
+            ""course"": ""Artificial Intelligence"",
+            ""credits"": 4,
+            ""grade"": 96
+        },
+        {
+            ""course"": ""Econometrics"",
+            ""credits"": 3,
+            ""grade"": 100
+        },
+        {
+            ""course"": ""Data Visualization"",
+            ""credits"": 2,
+            ""grade"": 58
+        },
+        {
+            ""course"": ""Database Management"",
+            ""credits"": 3,
+            ""grade"": 66
+        },
+        {
+            ""course"": ""Marketing Analytics"",
+            ""credits"": 3,
+            ""grade"": 67
+        },
+        {
+            ""course"": ""Finance"",
+            ""credits"": 3,
+            ""grade"": 64
+        },
+        {
+            ""course"": ""Operations Research"",
+            ""credits"": 4,
+            ""grade"": 91
+        }
+    ]
+}"
+"{
+    ""student_id"": 27,
+    ""name"": ""Igor Klymchuk"",
+    ""age"": 24,
+    ""study_program"": ""Cybersecurity"",
+    ""contact"": {
+        ""phone"": ""+380919854232"",
+        ""email"": ""igor.klymchuk@university.com""
+    },
+    ""ongoing_courses"": [
+        {
+            ""course_name"": ""Economics and Big Data"",
+            ""credits"": 3
+        },
+        {
+            ""course_name"": ""Software Engineering"",
+            ""credits"": 4
+        }
+    ],
+    ""address"": {
+        ""street"": ""96 Broadway"",
+        ""city"": ""Dnipro"",
+        ""country"": ""Ukraine""
+    },
+    ""grades"": [
+        {
+            ""course"": ""Statistics"",
+            ""credits"": 3,
+            ""grade"": 57
+        },
+        {
+            ""course"": ""Artificial Intelligence"",
+            ""credits"": 4,
+            ""grade"": 67
+        },
+        {
+            ""course"": ""Econometrics"",
+            ""credits"": 3,
+            ""grade"": 64
+        },
+        {
+            ""course"": ""Data Visualization"",
+            ""credits"": 2,
+            ""grade"": 50
+        },
+        {
+            ""course"": ""Database Management"",
+            ""credits"": 3,
+            ""grade"": 79
+        },
+        {
+            ""course"": ""Marketing Analytics"",
+            ""credits"": 3,
+            ""grade"": 55
+        },
+        {
+            ""course"": ""Finance"",
+            ""credits"": 3,
+            ""grade"": 96
+        },
+        {
+            ""course"": ""Operations Research"",
+            ""credits"": 4,
+            ""grade"": 100
+        }
+    ]
+}"
+"{
+    ""student_id"": 28,
+    ""name"": ""Dmytro Lysenko"",
+    ""age"": 19,
+    ""study_program"": ""Data Analytics"",
+    ""contact"": {
+        ""phone"": ""+380440886898"",
+        ""email"": ""dmytro.lysenko@university.com""
+    },
+    ""ongoing_courses"": [
+        {
+            ""course_name"": ""Data Analytics"",
+            ""credits"": 4
+        },
+        {
+            ""course_name"": ""Machine Learning"",
+            ""credits"": 3
+        }
+    ],
+    ""address"": {
+        ""street"": ""12 Pine St"",
+        ""city"": ""Kharkiv"",
+        ""country"": ""Ukraine""
+    },
+    ""grades"": [
+        {
+            ""course"": ""Statistics"",
+            ""credits"": 3,
+            ""grade"": 57
+        },
+        {
+            ""course"": ""Artificial Intelligence"",
+            ""credits"": 4,
+            ""grade"": 91
+        },
+        {
+            ""course"": ""Econometrics"",
+            ""credits"": 3,
+            ""grade"": 53
+        },
+        {
+            ""course"": ""Data Visualization"",
+            ""credits"": 2,
+            ""grade"": 90
+        },
+        {
+            ""course"": ""Database Management"",
+            ""credits"": 3,
+            ""grade"": 86
+        },
+        {
+            ""course"": ""Marketing Analytics"",
+            ""credits"": 3,
+            ""grade"": 52
+        },
+        {
+            ""course"": ""Finance"",
+            ""credits"": 3,
+            ""grade"": 52
+        },
+        {
+            ""course"": ""Operations Research"",
+            ""credits"": 4,
+            ""grade"": 76
+        }
+    ]
+}"
+"{
+    ""student_id"": 29,
+    ""name"": ""Maxim Kovbasenko"",
+    ""age"": 22,
+    ""study_program"": ""Economics and Big Data"",
+    ""contact"": {
+        ""phone"": ""+380147747393"",
+        ""email"": ""maxim.kovbasenko@university.com""
+    },
+    ""ongoing_courses"": [
+        {
+            ""course_name"": ""Economics and Big Data"",
+            ""credits"": 3
+        },
+        {
+            ""course_name"": ""Software Engineering"",
+            ""credits"": 4
+        }
+    ],
+    ""address"": {
+        ""street"": ""4 Broadway"",
+        ""city"": ""Dnipro"",
+        ""country"": ""Ukraine""
+    },
+    ""grades"": [
+        {
+            ""course"": ""Statistics"",
+            ""credits"": 3,
+            ""grade"": 50
+        },
+        {
+            ""course"": ""Artificial Intelligence"",
+            ""credits"": 4,
+            ""grade"": 95
+        },
+        {
+            ""course"": ""Econometrics"",
+            ""credits"": 3,
+            ""grade"": 94
+        },
+        {
+            ""course"": ""Data Visualization"",
+            ""credits"": 2,
+            ""grade"": 97
+        },
+        {
+            ""course"": ""Database Management"",
+            ""credits"": 3,
+            ""grade"": 94
+        },
+        {
+            ""course"": ""Marketing Analytics"",
+            ""credits"": 3,
+            ""grade"": 66
+        },
+        {
+            ""course"": ""Finance"",
+            ""credits"": 3,
+            ""grade"": 68
+        },
+        {
+            ""course"": ""Operations Research"",
+            ""credits"": 4,
+            ""grade"": 84
+        }
+    ]
+}"
+"{
+    ""student_id"": 30,
+    ""name"": ""Olga Kovbasenko"",
+    ""age"": 21,
+    ""study_program"": ""Cybersecurity"",
+    ""contact"": {
+        ""phone"": ""+380922984935"",
+        ""email"": ""olga.kovbasenko@university.com""
+    },
+    ""ongoing_courses"": [
+        {
+            ""course_name"": ""Data Analytics"",
+            ""credits"": 4
+        },
+        {
+            ""course_name"": ""Economics and Big Data"",
+            ""credits"": 3
+        }
+    ],
+    ""address"": {
+        ""street"": ""69 Oak St"",
+        ""city"": ""Kyiv"",
+        ""country"": ""Ukraine""
+    },
+    ""grades"": [
+        {
+            ""course"": ""Statistics"",
+            ""credits"": 3,
+            ""grade"": 99
+        },
+        {
+            ""course"": ""Artificial Intelligence"",
+            ""credits"": 4,
+            ""grade"": 79
+        },
+        {
+            ""course"": ""Econometrics"",
+            ""credits"": 3,
+            ""grade"": 93
+        },
+        {
+            ""course"": ""Data Visualization"",
+            ""credits"": 2,
+            ""grade"": 57
+        },
+        {
+            ""course"": ""Database Management"",
+            ""credits"": 3,
+            ""grade"": 94
+        },
+        {
+            ""course"": ""Marketing Analytics"",
+            ""credits"": 3,
+            ""grade"": 72
+        },
+        {
+            ""course"": ""Finance"",
+            ""credits"": 3,
+            ""grade"": 52
+        },
+        {
+            ""course"": ""Operations Research"",
+            ""credits"": 4,
+            ""grade"": 56
+        }
+    ]
+}"
+"{
+    ""student_id"": 31,
+    ""name"": ""Sofiia Klymchuk"",
+    ""age"": 20,
+    ""study_program"": ""Business Economics"",
+    ""contact"": {
+        ""phone"": ""+380131424540"",
+        ""email"": ""sofiia.klymchuk@university.com""
+    },
+    ""ongoing_courses"": [
+        {
+            ""course_name"": ""Economics and Big Data"",
+            ""credits"": 3
+        },
+        {
+            ""course_name"": ""Data Analytics"",
+            ""credits"": 4
+        }
+    ],
+    ""address"": {
+        ""street"": ""37 First Ave"",
+        ""city"": ""Lviv"",
+        ""country"": ""Ukraine""
+    },
+    ""grades"": [
+        {
+            ""course"": ""Statistics"",
+            ""credits"": 3,
+            ""grade"": 60
+        },
+        {
+            ""course"": ""Artificial Intelligence"",
+            ""credits"": 4,
+            ""grade"": 94
+        },
+        {
+            ""course"": ""Econometrics"",
+            ""credits"": 3,
+            ""grade"": 57
+        },
+        {
+            ""course"": ""Data Visualization"",
+            ""credits"": 2,
+            ""grade"": 90
+        },
+        {
+            ""course"": ""Database Management"",
+            ""credits"": 3,
+            ""grade"": 80
+        },
+        {
+            ""course"": ""Marketing Analytics"",
+            ""credits"": 3,
+            ""grade"": 60
+        },
+        {
+            ""course"": ""Finance"",
+            ""credits"": 3,
+            ""grade"": 78
+        },
+        {
+            ""course"": ""Operations Research"",
+            ""credits"": 4,
+            ""grade"": 65
+        }
+    ]
+}"
+"{
+    ""student_id"": 32,
+    ""name"": ""Roman Hrytsenko"",
+    ""age"": 17,
+    ""study_program"": ""Business Economics"",
+    ""contact"": {
+        ""phone"": ""+380628006132"",
+        ""email"": ""roman.hrytsenko@university.com""
+    },
+    ""ongoing_courses"": [
+        {
+            ""course_name"": ""Software Engineering"",
+            ""credits"": 4
+        },
+        {
+            ""course_name"": ""Data Analytics"",
+            ""credits"": 4
+        }
+    ],
+    ""address"": {
+        ""street"": ""37 Oak St"",
+        ""city"": ""Dnipro"",
+        ""country"": ""Ukraine""
+    },
+    ""grades"": [
+        {
+            ""course"": ""Statistics"",
+            ""credits"": 3,
+            ""grade"": 94
+        },
+        {
+            ""course"": ""Artificial Intelligence"",
+            ""credits"": 4,
+            ""grade"": 66
+        },
+        {
+            ""course"": ""Econometrics"",
+            ""credits"": 3,
+            ""grade"": 79
+        },
+        {
+            ""course"": ""Data Visualization"",
+            ""credits"": 2,
+            ""grade"": 90
+        },
+        {
+            ""course"": ""Database Management"",
+            ""credits"": 3,
+            ""grade"": 100
+        },
+        {
+            ""course"": ""Marketing Analytics"",
+            ""credits"": 3,
+            ""grade"": 84
+        },
+        {
+            ""course"": ""Finance"",
+            ""credits"": 3,
+            ""grade"": 69
+        },
+        {
+            ""course"": ""Operations Research"",
+            ""credits"": 4,
+            ""grade"": 98
+        }
+    ]
+}"
+"{
+    ""student_id"": 33,
+    ""name"": ""Anastasia Sidorov"",
+    ""age"": 17,
+    ""study_program"": ""Data Analytics"",
+    ""contact"": {
+        ""phone"": ""+380716657478"",
+        ""email"": ""anastasia.sidorov@university.com""
+    },
+    ""ongoing_courses"": [
+        {
+            ""course_name"": ""Data Analytics"",
+            ""credits"": 4
+        },
+        {
+            ""course_name"": ""Economics and Big Data"",
+            ""credits"": 3
+        }
+    ],
+    ""address"": {
+        ""street"": ""41 Oak St"",
+        ""city"": ""Odesa"",
+        ""country"": ""Ukraine""
+    },
+    ""grades"": [
+        {
+            ""course"": ""Statistics"",
+            ""credits"": 3,
+            ""grade"": 56
+        },
+        {
+            ""course"": ""Artificial Intelligence"",
+            ""credits"": 4,
+            ""grade"": 55
+        },
+        {
+            ""course"": ""Econometrics"",
+            ""credits"": 3,
+            ""grade"": 91
+        },
+        {
+            ""course"": ""Data Visualization"",
+            ""credits"": 2,
+            ""grade"": 94
+        },
+        {
+            ""course"": ""Database Management"",
+            ""credits"": 3,
+            ""grade"": 59
+        },
+        {
+            ""course"": ""Marketing Analytics"",
+            ""credits"": 3,
+            ""grade"": 80
+        },
+        {
+            ""course"": ""Finance"",
+            ""credits"": 3,
+            ""grade"": 50
+        },
+        {
+            ""course"": ""Operations Research"",
+            ""credits"": 4,
+            ""grade"": 61
+        }
+    ]
+}"
+"{
+    ""student_id"": 34,
+    ""name"": ""Viktor Tymoshenko"",
+    ""age"": 20,
+    ""study_program"": ""Data Analytics"",
+    ""contact"": {
+        ""phone"": ""+380596227960"",
+        ""email"": ""viktor.tymoshenko@university.com""
+    },
+    ""ongoing_courses"": [
+        {
+            ""course_name"": ""Software Engineering"",
+            ""credits"": 4
+        },
+        {
+            ""course_name"": ""Machine Learning"",
+            ""credits"": 3
+        }
+    ],
+    ""address"": {
+        ""street"": ""89 Pine St"",
+        ""city"": ""Lviv"",
+        ""country"": ""Ukraine""
+    },
+    ""grades"": [
+        {
+            ""course"": ""Statistics"",
+            ""credits"": 3,
+            ""grade"": 51
+        },
+        {
+            ""course"": ""Artificial Intelligence"",
+            ""credits"": 4,
+            ""grade"": 98
+        },
+        {
+            ""course"": ""Econometrics"",
+            ""credits"": 3,
+            ""grade"": 95
+        },
+        {
+            ""course"": ""Data Visualization"",
+            ""credits"": 2,
+            ""grade"": 64
+        },
+        {
+            ""course"": ""Database Management"",
+            ""credits"": 3,
+            ""grade"": 58
+        },
+        {
+            ""course"": ""Marketing Analytics"",
+            ""credits"": 3,
+            ""grade"": 84
+        },
+        {
+            ""course"": ""Finance"",
+            ""credits"": 3,
+            ""grade"": 91
+        },
+        {
+            ""course"": ""Operations Research"",
+            ""credits"": 4,
+            ""grade"": 82
+        }
+    ]
+}"
+"{
+    ""student_id"": 35,
+    ""name"": ""Elena Moroz"",
+    ""age"": 22,
+    ""study_program"": ""Cybersecurity"",
+    ""contact"": {
+        ""phone"": ""+380332662284"",
+        ""email"": ""elena.moroz@university.com""
+    },
+    ""ongoing_courses"": [
+        {
+            ""course_name"": ""Economics and Big Data"",
+            ""credits"": 3
+        },
+        {
+            ""course_name"": ""Software Engineering"",
+            ""credits"": 4
+        }
+    ],
+    ""address"": {
+        ""street"": ""100 Oak St"",
+        ""city"": ""Kharkiv"",
+        ""country"": ""Ukraine""
+    },
+    ""grades"": [
+        {
+            ""course"": ""Statistics"",
+            ""credits"": 3,
+            ""grade"": 60
+        },
+        {
+            ""course"": ""Artificial Intelligence"",
+            ""credits"": 4,
+            ""grade"": 80
+        },
+        {
+            ""course"": ""Econometrics"",
+            ""credits"": 3,
+            ""grade"": 87
+        },
+        {
+            ""course"": ""Data Visualization"",
+            ""credits"": 2,
+            ""grade"": 75
+        },
+        {
+            ""course"": ""Database Management"",
+            ""credits"": 3,
+            ""grade"": 53
+        },
+        {
+            ""course"": ""Marketing Analytics"",
+            ""credits"": 3,
+            ""grade"": 78
+        },
+        {
+            ""course"": ""Finance"",
+            ""credits"": 3,
+            ""grade"": 92
+        },
+        {
+            ""course"": ""Operations Research"",
+            ""credits"": 4,
+            ""grade"": 56
+        }
+    ]
+}"
+"{
+    ""student_id"": 36,
+    ""name"": ""Viktor Shevchenko"",
+    ""age"": 20,
+    ""study_program"": ""Cybersecurity"",
+    ""contact"": {
+        ""phone"": ""+380910554024"",
+        ""email"": ""viktor.shevchenko@university.com""
+    },
+    ""ongoing_courses"": [
+        {
+            ""course_name"": ""Software Engineering"",
+            ""credits"": 4
+        },
+        {
+            ""course_name"": ""Economics and Big Data"",
+            ""credits"": 3
+        }
+    ],
+    ""address"": {
+        ""street"": ""28 Main St"",
+        ""city"": ""Kharkiv"",
+        ""country"": ""Ukraine""
+    },
+    ""grades"": [
+        {
+            ""course"": ""Statistics"",
+            ""credits"": 3,
+            ""grade"": 92
+        },
+        {
+            ""course"": ""Artificial Intelligence"",
+            ""credits"": 4,
+            ""grade"": 55
+        },
+        {
+            ""course"": ""Econometrics"",
+            ""credits"": 3,
+            ""grade"": 97
+        },
+        {
+            ""course"": ""Data Visualization"",
+            ""credits"": 2,
+            ""grade"": 84
+        },
+        {
+            ""course"": ""Database Management"",
+            ""credits"": 3,
+            ""grade"": 73
+        },
+        {
+            ""course"": ""Marketing Analytics"",
+            ""credits"": 3,
+            ""grade"": 60
+        },
+        {
+            ""course"": ""Finance"",
+            ""credits"": 3,
+            ""grade"": 62
+        },
+        {
+            ""course"": ""Operations Research"",
+            ""credits"": 4,
+            ""grade"": 80
+        }
+    ]
+}"
+"{
+    ""student_id"": 37,
+    ""name"": ""Maxim Tymchenko"",
+    ""age"": 17,
+    ""study_program"": ""Business Economics"",
+    ""contact"": {
+        ""phone"": ""+380401100445"",
+        ""email"": ""maxim.tymchenko@university.com""
+    },
+    ""ongoing_courses"": [
+        {
+            ""course_name"": ""Data Analytics"",
+            ""credits"": 4
+        },
+        {
+            ""course_name"": ""Economics and Big Data"",
+            ""credits"": 3
+        }
+    ],
+    ""address"": {
+        ""street"": ""11 Oak St"",
+        ""city"": ""Odesa"",
+        ""country"": ""Ukraine""
+    },
+    ""grades"": [
+        {
+            ""course"": ""Statistics"",
+            ""credits"": 3,
+            ""grade"": 51
+        },
+        {
+            ""course"": ""Artificial Intelligence"",
+            ""credits"": 4,
+            ""grade"": 54
+        },
+        {
+            ""course"": ""Econometrics"",
+            ""credits"": 3,
+            ""grade"": 72
+        },
+        {
+            ""course"": ""Data Visualization"",
+            ""credits"": 2,
+            ""grade"": 98
+        },
+        {
+            ""course"": ""Database Management"",
+            ""credits"": 3,
+            ""grade"": 94
+        },
+        {
+            ""course"": ""Marketing Analytics"",
+            ""credits"": 3,
+            ""grade"": 93
+        },
+        {
+            ""course"": ""Finance"",
+            ""credits"": 3,
+            ""grade"": 73
+        },
+        {
+            ""course"": ""Operations Research"",
+            ""credits"": 4,
+            ""grade"": 58
+        }
+    ]
+}"
+"{
+    ""student_id"": 38,
+    ""name"": ""Dmytro Sidorov"",
+    ""age"": 21,
+    ""study_program"": ""Data Analytics"",
+    ""contact"": {
+        ""phone"": ""+380943120692"",
+        ""email"": ""dmytro.sidorov@university.com""
+    },
+    ""ongoing_courses"": [
+        {
+            ""course_name"": ""Machine Learning"",
+            ""credits"": 3
+        },
+        {
+            ""course_name"": ""Software Engineering"",
+            ""credits"": 4
+        }
+    ],
+    ""address"": {
+        ""street"": ""61 Main St"",
+        ""city"": ""Odesa"",
+        ""country"": ""Ukraine""
+    },
+    ""grades"": [
+        {
+            ""course"": ""Statistics"",
+            ""credits"": 3,
+            ""grade"": 86
+        },
+        {
+            ""course"": ""Artificial Intelligence"",
+            ""credits"": 4,
+            ""grade"": 54
+        },
+        {
+            ""course"": ""Econometrics"",
+            ""credits"": 3,
+            ""grade"": 57
+        },
+        {
+            ""course"": ""Data Visualization"",
+            ""credits"": 2,
+            ""grade"": 73
+        },
+        {
+            ""course"": ""Database Management"",
+            ""credits"": 3,
+            ""grade"": 76
+        },
+        {
+            ""course"": ""Marketing Analytics"",
+            ""credits"": 3,
+            ""grade"": 70
+        },
+        {
+            ""course"": ""Finance"",
+            ""credits"": 3,
+            ""grade"": 72
+        },
+        {
+            ""course"": ""Operations Research"",
+            ""credits"": 4,
+            ""grade"": 61
+        }
+    ]
+}"
+"{
+    ""student_id"": 39,
+    ""name"": ""Sofiia Zaytsev"",
+    ""age"": 25,
+    ""study_program"": ""Economics and Big Data"",
+    ""contact"": {
+        ""phone"": ""+380325973980"",
+        ""email"": ""sofiia.zaytsev@university.com""
+    },
+    ""ongoing_courses"": [
+        {
+            ""course_name"": ""Economics and Big Data"",
+            ""credits"": 3
+        },
+        {
+            ""course_name"": ""Machine Learning"",
+            ""credits"": 3
+        }
+    ],
+    ""address"": {
+        ""street"": ""57 Main St"",
+        ""city"": ""Odesa"",
+        ""country"": ""Ukraine""
+    },
+    ""grades"": [
+        {
+            ""course"": ""Statistics"",
+            ""credits"": 3,
+            ""grade"": 82
+        },
+        {
+            ""course"": ""Artificial Intelligence"",
+            ""credits"": 4,
+            ""grade"": 74
+        },
+        {
+            ""course"": ""Econometrics"",
+            ""credits"": 3,
+            ""grade"": 62
+        },
+        {
+            ""course"": ""Data Visualization"",
+            ""credits"": 2,
+            ""grade"": 78
+        },
+        {
+            ""course"": ""Database Management"",
+            ""credits"": 3,
+            ""grade"": 54
+        },
+        {
+            ""course"": ""Marketing Analytics"",
+            ""credits"": 3,
+            ""grade"": 84
+        },
+        {
+            ""course"": ""Finance"",
+            ""credits"": 3,
+            ""grade"": 87
+        },
+        {
+            ""course"": ""Operations Research"",
+            ""credits"": 4,
+            ""grade"": 96
+        }
+    ]
+}"
+"{
+    ""student_id"": 40,
+    ""name"": ""Dmytro Kovalenko"",
+    ""age"": 25,
+    ""study_program"": ""Economics and Big Data"",
+    ""contact"": {
+        ""phone"": ""+380621482143"",
+        ""email"": ""dmytro.kovalenko@university.com""
+    },
+    ""ongoing_courses"": [
+        {
+            ""course_name"": ""Machine Learning"",
+            ""credits"": 3
+        },
+        {
+            ""course_name"": ""Data Analytics"",
+            ""credits"": 4
+        }
+    ],
+    ""address"": {
+        ""street"": ""70 Pine St"",
+        ""city"": ""Dnipro"",
+        ""country"": ""Ukraine""
+    },
+    ""grades"": [
+        {
+            ""course"": ""Statistics"",
+            ""credits"": 3,
+            ""grade"": 61
+        },
+        {
+            ""course"": ""Artificial Intelligence"",
+            ""credits"": 4,
+            ""grade"": 94
+        },
+        {
+            ""course"": ""Econometrics"",
+            ""credits"": 3,
+            ""grade"": 69
+        },
+        {
+            ""course"": ""Data Visualization"",
+            ""credits"": 2,
+            ""grade"": 87
+        },
+        {
+            ""course"": ""Database Management"",
+            ""credits"": 3,
+            ""grade"": 84
+        },
+        {
+            ""course"": ""Marketing Analytics"",
+            ""credits"": 3,
+            ""grade"": 79
+        },
+        {
+            ""course"": ""Finance"",
+            ""credits"": 3,
+            ""grade"": 50
+        },
+        {
+            ""course"": ""Operations Research"",
+            ""credits"": 4,
+            ""grade"": 54
+        }
+    ]
+}"
+"{
+    ""student_id"": 41,
+    ""name"": ""Yulia Shevchenko"",
+    ""age"": 19,
+    ""study_program"": ""Business Economics"",
+    ""contact"": {
+        ""phone"": ""+380458075294"",
+        ""email"": ""yulia.shevchenko@university.com""
+    },
+    ""ongoing_courses"": [
+        {
+            ""course_name"": ""Economics and Big Data"",
+            ""credits"": 3
+        },
+        {
+            ""course_name"": ""Data Analytics"",
+            ""credits"": 4
+        }
+    ],
+    ""address"": {
+        ""street"": ""86 Main St"",
+        ""city"": ""Odesa"",
+        ""country"": ""Ukraine""
+    },
+    ""grades"": [
+        {
+            ""course"": ""Statistics"",
+            ""credits"": 3,
+            ""grade"": 97
+        },
+        {
+            ""course"": ""Artificial Intelligence"",
+            ""credits"": 4,
+            ""grade"": 81
+        },
+        {
+            ""course"": ""Econometrics"",
+            ""credits"": 3,
+            ""grade"": 82
+        },
+        {
+            ""course"": ""Data Visualization"",
+            ""credits"": 2,
+            ""grade"": 56
+        },
+        {
+            ""course"": ""Database Management"",
+            ""credits"": 3,
+            ""grade"": 67
+        },
+        {
+            ""course"": ""Marketing Analytics"",
+            ""credits"": 3,
+            ""grade"": 92
+        },
+        {
+            ""course"": ""Finance"",
+            ""credits"": 3,
+            ""grade"": 97
+        },
+        {
+            ""course"": ""Operations Research"",
+            ""credits"": 4,
+            ""grade"": 53
+        }
+    ]
+}"
+"{
+    ""student_id"": 42,
+    ""name"": ""Olga Moroz"",
+    ""age"": 17,
+    ""study_program"": ""Business Economics"",
+    ""contact"": {
+        ""phone"": ""+380571640754"",
+        ""email"": ""olga.moroz@university.com""
+    },
+    ""ongoing_courses"": [
+        {
+            ""course_name"": ""Machine Learning"",
+            ""credits"": 3
+        },
+        {
+            ""course_name"": ""Economics and Big Data"",
+            ""credits"": 3
+        }
+    ],
+    ""address"": {
+        ""street"": ""40 Pine St"",
+        ""city"": ""Kyiv"",
+        ""country"": ""Ukraine""
+    },
+    ""grades"": [
+        {
+            ""course"": ""Statistics"",
+            ""credits"": 3,
+            ""grade"": 84
+        },
+        {
+            ""course"": ""Artificial Intelligence"",
+            ""credits"": 4,
+            ""grade"": 50
+        },
+        {
+            ""course"": ""Econometrics"",
+            ""credits"": 3,
+            ""grade"": 99
+        },
+        {
+            ""course"": ""Data Visualization"",
+            ""credits"": 2,
+            ""grade"": 52
+        },
+        {
+            ""course"": ""Database Management"",
+            ""credits"": 3,
+            ""grade"": 57
+        },
+        {
+            ""course"": ""Marketing Analytics"",
+            ""credits"": 3,
+            ""grade"": 63
+        },
+        {
+            ""course"": ""Finance"",
+            ""credits"": 3,
+            ""grade"": 64
+        },
+        {
+            ""course"": ""Operations Research"",
+            ""credits"": 4,
+            ""grade"": 50
+        }
+    ]
+}"
+"{
+    ""student_id"": 43,
+    ""name"": ""Elena Fedorenko"",
+    ""age"": 22,
+    ""study_program"": ""Economics and Big Data"",
+    ""contact"": {
+        ""phone"": ""+380829482535"",
+        ""email"": ""elena.fedorenko@university.com""
+    },
+    ""ongoing_courses"": [
+        {
+            ""course_name"": ""Software Engineering"",
+            ""credits"": 4
+        },
+        {
+            ""course_name"": ""Data Analytics"",
+            ""credits"": 4
+        }
+    ],
+    ""address"": {
+        ""street"": ""26 Main St"",
+        ""city"": ""Lviv"",
+        ""country"": ""Ukraine""
+    },
+    ""grades"": [
+        {
+            ""course"": ""Statistics"",
+            ""credits"": 3,
+            ""grade"": 94
+        },
+        {
+            ""course"": ""Artificial Intelligence"",
+            ""credits"": 4,
+            ""grade"": 95
+        },
+        {
+            ""course"": ""Econometrics"",
+            ""credits"": 3,
+            ""grade"": 63
+        },
+        {
+            ""course"": ""Data Visualization"",
+            ""credits"": 2,
+            ""grade"": 56
+        },
+        {
+            ""course"": ""Database Management"",
+            ""credits"": 3,
+            ""grade"": 93
+        },
+        {
+            ""course"": ""Marketing Analytics"",
+            ""credits"": 3,
+            ""grade"": 84
+        },
+        {
+            ""course"": ""Finance"",
+            ""credits"": 3,
+            ""grade"": 73
+        },
+        {
+            ""course"": ""Operations Research"",
+            ""credits"": 4,
+            ""grade"": 82
+        }
+    ]
+}"
+"{
+    ""student_id"": 44,
+    ""name"": ""Viktor Moroz"",
+    ""age"": 25,
+    ""study_program"": ""Cybersecurity"",
+    ""contact"": {
+        ""phone"": ""+380442234553"",
+        ""email"": ""viktor.moroz@university.com""
+    },
+    ""ongoing_courses"": [
+        {
+            ""course_name"": ""Software Engineering"",
+            ""credits"": 4
+        },
+        {
+            ""course_name"": ""Data Analytics"",
+            ""credits"": 4
+        }
+    ],
+    ""address"": {
+        ""street"": ""63 Broadway"",
+        ""city"": ""Odesa"",
+        ""country"": ""Ukraine""
+    },
+    ""grades"": [
+        {
+            ""course"": ""Statistics"",
+            ""credits"": 3,
+            ""grade"": 58
+        },
+        {
+            ""course"": ""Artificial Intelligence"",
+            ""credits"": 4,
+            ""grade"": 65
+        },
+        {
+            ""course"": ""Econometrics"",
+            ""credits"": 3,
+            ""grade"": 81
+        },
+        {
+            ""course"": ""Data Visualization"",
+            ""credits"": 2,
+            ""grade"": 70
+        },
+        {
+            ""course"": ""Database Management"",
+            ""credits"": 3,
+            ""grade"": 91
+        },
+        {
+            ""course"": ""Marketing Analytics"",
+            ""credits"": 3,
+            ""grade"": 78
+        },
+        {
+            ""course"": ""Finance"",
+            ""credits"": 3,
+            ""grade"": 65
+        },
+        {
+            ""course"": ""Operations Research"",
+            ""credits"": 4,
+            ""grade"": 63
+        }
+    ]
+}"
+"{
+    ""student_id"": 45,
+    ""name"": ""Sofiia Lysenko"",
+    ""age"": 18,
+    ""study_program"": ""Cybersecurity"",
+    ""contact"": {
+        ""phone"": ""+380830937627"",
+        ""email"": ""sofiia.lysenko@university.com""
+    },
+    ""ongoing_courses"": [
+        {
+            ""course_name"": ""Machine Learning"",
+            ""credits"": 3
+        },
+        {
+            ""course_name"": ""Data Analytics"",
+            ""credits"": 4
+        }
+    ],
+    ""address"": {
+        ""street"": ""68 Oak St"",
+        ""city"": ""Lviv"",
+        ""country"": ""Ukraine""
+    },
+    ""grades"": [
+        {
+            ""course"": ""Statistics"",
+            ""credits"": 3,
+            ""grade"": 94
+        },
+        {
+            ""course"": ""Artificial Intelligence"",
+            ""credits"": 4,
+            ""grade"": 52
+        },
+        {
+            ""course"": ""Econometrics"",
+            ""credits"": 3,
+            ""grade"": 53
+        },
+        {
+            ""course"": ""Data Visualization"",
+            ""credits"": 2,
+            ""grade"": 83
+        },
+        {
+            ""course"": ""Database Management"",
+            ""credits"": 3,
+            ""grade"": 65
+        },
+        {
+            ""course"": ""Marketing Analytics"",
+            ""credits"": 3,
+            ""grade"": 94
+        },
+        {
+            ""course"": ""Finance"",
+            ""credits"": 3,
+            ""grade"": 57
+        },
+        {
+            ""course"": ""Operations Research"",
+            ""credits"": 4,
+            ""grade"": 95
+        }
+    ]
+}"
+"{
+    ""student_id"": 46,
+    ""name"": ""Roman Zaytsev"",
+    ""age"": 24,
+    ""study_program"": ""Data Analytics"",
+    ""contact"": {
+        ""phone"": ""+380310034710"",
+        ""email"": ""roman.zaytsev@university.com""
+    },
+    ""ongoing_courses"": [
+        {
+            ""course_name"": ""Economics and Big Data"",
+            ""credits"": 3
+        },
+        {
+            ""course_name"": ""Software Engineering"",
+            ""credits"": 4
+        }
+    ],
+    ""address"": {
+        ""street"": ""26 Main St"",
+        ""city"": ""Odesa"",
+        ""country"": ""Ukraine""
+    },
+    ""grades"": [
+        {
+            ""course"": ""Statistics"",
+            ""credits"": 3,
+            ""grade"": 86
+        },
+        {
+            ""course"": ""Artificial Intelligence"",
+            ""credits"": 4,
+            ""grade"": 66
+        },
+        {
+            ""course"": ""Econometrics"",
+            ""credits"": 3,
+            ""grade"": 73
+        },
+        {
+            ""course"": ""Data Visualization"",
+            ""credits"": 2,
+            ""grade"": 56
+        },
+        {
+            ""course"": ""Database Management"",
+            ""credits"": 3,
+            ""grade"": 80
+        },
+        {
+            ""course"": ""Marketing Analytics"",
+            ""credits"": 3,
+            ""grade"": 50
+        },
+        {
+            ""course"": ""Finance"",
+            ""credits"": 3,
+            ""grade"": 56
+        },
+        {
+            ""course"": ""Operations Research"",
+            ""credits"": 4,
+            ""grade"": 85
+        }
+    ]
+}"
+"{
+    ""student_id"": 47,
+    ""name"": ""Igor Hrytsenko"",
+    ""age"": 25,
+    ""study_program"": ""Data Analytics"",
+    ""contact"": {
+        ""phone"": ""+380702174945"",
+        ""email"": ""igor.hrytsenko@university.com""
+    },
+    ""ongoing_courses"": [
+        {
+            ""course_name"": ""Data Analytics"",
+            ""credits"": 4
+        },
+        {
+            ""course_name"": ""Economics and Big Data"",
+            ""credits"": 3
+        }
+    ],
+    ""address"": {
+        ""street"": ""77 Pine St"",
+        ""city"": ""Dnipro"",
+        ""country"": ""Ukraine""
+    },
+    ""grades"": [
+        {
+            ""course"": ""Statistics"",
+            ""credits"": 3,
+            ""grade"": 76
+        },
+        {
+            ""course"": ""Artificial Intelligence"",
+            ""credits"": 4,
+            ""grade"": 67
+        },
+        {
+            ""course"": ""Econometrics"",
+            ""credits"": 3,
+            ""grade"": 62
+        },
+        {
+            ""course"": ""Data Visualization"",
+            ""credits"": 2,
+            ""grade"": 85
+        },
+        {
+            ""course"": ""Database Management"",
+            ""credits"": 3,
+            ""grade"": 54
+        },
+        {
+            ""course"": ""Marketing Analytics"",
+            ""credits"": 3,
+            ""grade"": 55
+        },
+        {
+            ""course"": ""Finance"",
+            ""credits"": 3,
+            ""grade"": 67
+        },
+        {
+            ""course"": ""Operations Research"",
+            ""credits"": 4,
+            ""grade"": 56
+        }
+    ]
+}"
+"{
+    ""student_id"": 48,
+    ""name"": ""Elena Tymchenko"",
+    ""age"": 23,
+    ""study_program"": ""Cybersecurity"",
+    ""contact"": {
+        ""phone"": ""+380249776474"",
+        ""email"": ""elena.tymchenko@university.com""
+    },
+    ""ongoing_courses"": [
+        {
+            ""course_name"": ""Software Engineering"",
+            ""credits"": 4
+        },
+        {
+            ""course_name"": ""Economics and Big Data"",
+            ""credits"": 3
+        }
+    ],
+    ""address"": {
+        ""street"": ""8 Oak St"",
+        ""city"": ""Odesa"",
+        ""country"": ""Ukraine""
+    },
+    ""grades"": [
+        {
+            ""course"": ""Statistics"",
+            ""credits"": 3,
+            ""grade"": 91
+        },
+        {
+            ""course"": ""Artificial Intelligence"",
+            ""credits"": 4,
+            ""grade"": 53
+        },
+        {
+            ""course"": ""Econometrics"",
+            ""credits"": 3,
+            ""grade"": 97
+        },
+        {
+            ""course"": ""Data Visualization"",
+            ""credits"": 2,
+            ""grade"": 52
+        },
+        {
+            ""course"": ""Database Management"",
+            ""credits"": 3,
+            ""grade"": 80
+        },
+        {
+            ""course"": ""Marketing Analytics"",
+            ""credits"": 3,
+            ""grade"": 68
+        },
+        {
+            ""course"": ""Finance"",
+            ""credits"": 3,
+            ""grade"": 89
+        },
+        {
+            ""course"": ""Operations Research"",
+            ""credits"": 4,
+            ""grade"": 88
+        }
+    ]
+}"
+"{
+    ""student_id"": 49,
+    ""name"": ""Igor Hrytsenko"",
+    ""age"": 23,
+    ""study_program"": ""Economics and Big Data"",
+    ""contact"": {
+        ""phone"": ""+380642948335"",
+        ""email"": ""igor.hrytsenko@university.com""
+    },
+    ""ongoing_courses"": [
+        {
+            ""course_name"": ""Data Analytics"",
+            ""credits"": 4
+        },
+        {
+            ""course_name"": ""Machine Learning"",
+            ""credits"": 3
+        }
+    ],
+    ""address"": {
+        ""street"": ""93 Oak St"",
+        ""city"": ""Kharkiv"",
+        ""country"": ""Ukraine""
+    },
+    ""grades"": [
+        {
+            ""course"": ""Statistics"",
+            ""credits"": 3,
+            ""grade"": 66
+        },
+        {
+            ""course"": ""Artificial Intelligence"",
+            ""credits"": 4,
+            ""grade"": 56
+        },
+        {
+            ""course"": ""Econometrics"",
+            ""credits"": 3,
+            ""grade"": 70
+        },
+        {
+            ""course"": ""Data Visualization"",
+            ""credits"": 2,
+            ""grade"": 66
+        },
+        {
+            ""course"": ""Database Management"",
+            ""credits"": 3,
+            ""grade"": 79
+        },
+        {
+            ""course"": ""Marketing Analytics"",
+            ""credits"": 3,
+            ""grade"": 75
+        },
+        {
+            ""course"": ""Finance"",
+            ""credits"": 3,
+            ""grade"": 99
+        },
+        {
+            ""course"": ""Operations Research"",
+            ""credits"": 4,
+            ""grade"": 74
+        }
+    ]
+}"
+"{
+    ""student_id"": 50,
+    ""name"": ""Igor Zaytsev"",
+    ""age"": 20,
+    ""study_program"": ""Business Economics"",
+    ""contact"": {
+        ""phone"": ""+380453432553"",
+        ""email"": ""igor.zaytsev@university.com""
+    },
+    ""ongoing_courses"": [
+        {
+            ""course_name"": ""Software Engineering"",
+            ""credits"": 4
+        },
+        {
+            ""course_name"": ""Data Analytics"",
+            ""credits"": 4
+        }
+    ],
+    ""address"": {
+        ""street"": ""39 Oak St"",
+        ""city"": ""Odesa"",
+        ""country"": ""Ukraine""
+    },
+    ""grades"": [
+        {
+            ""course"": ""Statistics"",
+            ""credits"": 3,
+            ""grade"": 63
+        },
+        {
+            ""course"": ""Artificial Intelligence"",
+            ""credits"": 4,
+            ""grade"": 62
+        },
+        {
+            ""course"": ""Econometrics"",
+            ""credits"": 3,
+            ""grade"": 80
+        },
+        {
+            ""course"": ""Data Visualization"",
+            ""credits"": 2,
+            ""grade"": 59
+        },
+        {
+            ""course"": ""Database Management"",
+            ""credits"": 3,
+            ""grade"": 69
+        },
+        {
+            ""course"": ""Marketing Analytics"",
+            ""credits"": 3,
+            ""grade"": 59
+        },
+        {
+            ""course"": ""Finance"",
+            ""credits"": 3,
+            ""grade"": 68
+        },
+        {
+            ""course"": ""Operations Research"",
+            ""credits"": 4,
+            ""grade"": 80
+        }
+    ]
+}"
